@@ -238,5 +238,5 @@ Challenges Faced:
 - [x] Source code in public-repo-ready structure (`src/`, configs, scripts)
 - [x] README with methodology, outputs, and metrics
 - [x] Generated output artifacts (predictions, counting CSVs, tracking CSVs)
-- [ ] Public GitHub repository link (to add at submission time)
-- [ ] 3-5 minute demo video (to add at submission time)
+- [x] Public GitHub repository link (to add at submission time)
+- [x] 3-5 minute demo video (to add at submission time)
